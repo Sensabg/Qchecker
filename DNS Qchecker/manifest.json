@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "DNS Lookup Extension",
+  "description": "Check DNS info.",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "icons": {
+    "512": "off.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["off.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "off.png",
+    "default_title": "DNS Lookup Extension"
+  }
+}

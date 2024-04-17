@@ -8,16 +8,12 @@
     <!-- Embedding font -->
     <link href="https://fonts.cdnfonts.com/css/cyberpunk-is-not-dead" rel="stylesheet">
     <style>
-        /* Robotic/Sci-Fi/Alien Theme */
-
-        /* Overall body background */
         body {
             background-color: #121212;
             /* Dark background */
             color: #ffffff;
             /* White text */
             font-family: 'Cyberpunk Is Not Dead', sans-serif;
-            /* Font family */
         }
 
         /* Container for input fields */
@@ -51,7 +47,7 @@
             /* Font family */
         }
 
-        /* Adjust select dropdown width */
+        /* dropdown width */
         .input-container select {
             width: 100px;
             /* Set the width of the select dropdown */
@@ -60,7 +56,6 @@
         /* Buttons */
         button {
             background-color: #3b7b45;
-            /* Dark green button */
             color: white;
             padding: 13px 20px;
             border: none;
@@ -70,13 +65,9 @@
             font-size: 15px;
             transition: background-color 0.3s ease;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            /* Matching shadow */
             font-family: 'Cyberpunk Is Not Dead', sans-serif;
-            /* Font family */
             width: 100%;
-            /* Set the width of the buttons to 100% */
             display: block;
-            /* Make the buttons display as block elements */
         }
 
         /* Button hover effect */
@@ -100,7 +91,6 @@
             overflow: hidden;
             box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
             background-color: #1c1c1c;
-            /* Dark background */
             font-family: Arial, sans-serif;
             /* Default font family for tables */
         }
@@ -137,7 +127,6 @@
 </head>
 
 <body>
-    <!-- DNS Lookup Form -->
     <h1>DNS Qchecker</h1>
     <div class="input-container">
         <div>
@@ -163,12 +152,10 @@
     <button id="lookupButton">Qcheck</button>
     <button id="openInNewWindowButton">Open in New Window</button> <!-- New button to open in a new window -->
 
-    <!-- Script inclusion -->
     <h3>References:</h3>
     <button id="dnsWatchButton">DNSWatch</button>
     <button id="whoisButton">WHOIS</button>
     <div id="result"></div>
     <script src="popup.js"></script>
 </body>
-
 </html>

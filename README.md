@@ -23,3 +23,22 @@ This is not the final design as it needs to undergo slight transformations on th
 </p>
 
 <hr>
+
+| Open in new window   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ  | 
+| ------------- |
+
+<img src="/documentation/new windowww.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 560px; height: auto;">
+</p>
+
+<hr>
+
+| References   ㅤ  ㅤㅤㅤ ㅤㅤ  ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ㅤㅤ   ㅤㅤㅤㅤㅤㅤㅤㅤㅤ     ㅤㅤㅤㅤ    ㅤㅤㅤ   ㅤㅤㅤ  | 
+| ------------- |
+
+
+<img src="/documentation/ref.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+<img src="/documentation/input.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+
+* The "DNS Watch" button opens a new tab, with a constructed URL based on the domain and the selected record type from the input field.
+* Similarly, the "Whois" button directs to a tailored URL based on the domain from the input field.
+</p>

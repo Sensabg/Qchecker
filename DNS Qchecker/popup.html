@@ -1,40 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DNS Lookup</title>
-    <!-- Embedding font -->
     <link href="https://fonts.cdnfonts.com/css/cyberpunk-is-not-dead" rel="stylesheet">
     <style>
+
         body {
             background-color: #121212;
-            /* Dark background */
             color: #ffffff;
-            /* White text */
             font-family: 'Cyberpunk Is Not Dead', sans-serif;
         }
 
-        /* Container for input fields */
         .input-container {
             margin-bottom: 10px;
             display: flex;
-            /* Use flexbox for layout */
             align-items: center;
-            /* Align items vertically */
         }
 
-        /* Input fields and labels */
         .input-container label {
             
             color: #ffffff;
-            /* White label text */
             margin-right: 10px;
             font-family: 'Cyberpunk Is Not Dead', sans-serif;
-            /* Font family */
             width: 100px;
-            /* Set the width of the label */
         }
 
         .input-container input[type="text"],
@@ -44,16 +34,12 @@
             border: 1px solid #ccc;
             font-size: 13px;
             font-family: Arial, sans-serif;
-            /* Font family */
         }
 
-        /* dropdown width */
         .input-container select {
             width: 100px;
-            /* Set the width of the select dropdown */
         }
 
-        /* Buttons */
         button {
             background-color: #3b7b45;
             color: white;
@@ -70,19 +56,15 @@
             display: block;
         }
 
-        /* Button hover effect */
         button:hover {
             background-color: #316936;
-            /* Darker green on hover */
         }
 
         h1 {
             color: #77d970;
-            /* Light green header text */
             text-align: center;
         }
 
-        /* DNS Table */
         .dns-table {
             border-collapse: collapse;
             width: 100%;
@@ -92,36 +74,26 @@
             box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
             background-color: #1c1c1c;
             font-family: Arial, sans-serif;
-            /* Default font family for tables */
         }
 
-        /* Table header */
         .dns-table th {
             background-color: #23423f;
-            /* Darker header */
             color: #77d970;
-            /* Light green text */
             padding: 10px;
             text-align: left;
         }
 
-        /* Table rows */
         .dns-table tr {
             background-color: #484747;
-            /* Dark row */
         }
 
-        /* Table data cells */
         .dns-table td {
             padding: 10px;
             border-bottom: 1px solid #333333;
-            /* Dark border */
         }
 
-        /* Alternate rows */
         .dns-table tr:nth-child(even) {
             background-color: #1f1f1f;
-            /* Slightly lighter dark row */
         }
     </style>
 </head>
@@ -150,9 +122,10 @@
     </div>
 
     <button id="lookupButton">Qcheck</button>
-    <button id="openInNewWindowButton">Open in New Window</button> <!-- New button to open in a new window -->
+    <button id="openInNewWindowButton">Open in New Window</button> 
 
     <h3>References:</h3>
+
     <button id="dnsWatchButton">DNSWatch</button>
     <button id="whoisButton">WHOIS</button>
     <div id="result"></div>

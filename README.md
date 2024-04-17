@@ -13,3 +13,13 @@
 This is not the final design as it needs to undergo slight transformations on the CSS code; nevertheless, I decided to release it to serve our Tech team as its capabilities are more important.
 
 <hr>
+
+| Available DNS record types   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ     ㅤㅤ  | 
+| ------------- |
+
+<p>
+<img src="/documentation/dropdown.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 250px; height: auto;">
+<img src="/documentation/drop-down2.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+</p>
+
+<hr>

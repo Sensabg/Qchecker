@@ -5,3 +5,7 @@
 <img src="/documentation/inteface.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 250px; height: auto;">
 
 This is not the final design as it needs to undergo slight transformations on the CSS code; nevertheless, I decided to release it to serve our Tech team as its capabilities are more important.
+
+## Available DNS record types:
+
+<img src="/documentation/drop-down options.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 250px; height: auto;">

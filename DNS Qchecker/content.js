@@ -1,4 +1,3 @@
-// popup.js
 document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("lookupButton").addEventListener("click", function() {
     var recordType = document.getElementById("recordType").value;

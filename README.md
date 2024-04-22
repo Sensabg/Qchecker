@@ -45,7 +45,7 @@ This is not the final design as it needs to undergo slight transformations on th
 
 <hr>
 
-# `Summarization:: `
+# `Summarization: `
 
 ## 1. Features
 

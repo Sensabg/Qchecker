@@ -42,3 +42,33 @@ This is not the final design as it needs to undergo slight transformations on th
 * The "DNS Watch" button opens a new tab, with a constructed URL based on the domain and the selected record type from the input field.
 * Similarly, the "Whois" button directs to a tailored URL based on the domain from the input field.
 </p>
+
+<hr>
+
+# `Summarization:: `
+
+## 1. Features
+
+* Perform DNS lookups for a given domain and record type in a table format.
+* Open a new page of DNSWatch and WHOIS pages for the Qchecked domain in the extension.
+* Open the extension's popup in a new window.
+
+## 2. Technical Details
+
+* The extension uses the chrome.runtime API to communicate between the background script and the popup script.
+* Uses the chrome.windows API to open the popup in a new window.
+* The background script fetches DNS records from the Google DNS API and sends the response to the popup script.
+* The popup script displays the DNS records in a table format and provides buttons to open DNSWatch and WHOIS pages.
+* Requires the "activeTab" and "storage" permissions to function.
+
+<hr>
+
+# `Custom designs-made by me: `
+
+* I may also add functionality to switch between the different skins.
+
+<p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRnZmVsaGRsbXl6NzhrOXEwdG5hd2RoNzh4ODl6dHh2NXlrcml0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/701hI95nTZY4SWkRft/giphy-downsized-large.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnljNDFmdnZubzN1ZGpsdXk5Zml5OXRiNTE5MXdkaTUza3dlMjEzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EHnWgsRJXVKBHjQQUb/giphy-downsized-large.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjamdseXUwNnk3MnhyZ3J4MDh0dTE4cHV6YmpiMXdueGF3MWpkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9WOuxDEM55exHgjf4/giphy.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
+</p>

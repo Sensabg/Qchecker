@@ -130,6 +130,10 @@ cd dekstop
 > [!IMPORTANT]
 > Verify that you're in the correct directory by running the ls command, which lists the files and folders in the current directory.
 
+```bash
+ls
+```
+
 2.  Run the ffmpeg command to convert your video to a GIF. 
 
 * Different types of commands can be used for the purpose depending on your specific needs, however, this is the exact one that I am using:

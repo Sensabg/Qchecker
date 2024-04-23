@@ -63,7 +63,7 @@ This is not the final design as it needs to undergo slight transformations on th
 
 <hr>
 
-# `Custom designs-made by me: `
+# `Custom designs - made by me: `
 
 * I may also add functionality to switch between the different skins.
 

@@ -89,16 +89,16 @@ I also acquired some additional skills along the way, for the sake of documentin
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-2. Install FFmpeg: With Homebrew installed, you can now install FFmpeg by running the following command:
+2. Install FFmpeg. With Homebrew installed, you can now install FFmpeg by running the following command:
 
 ```bash
 brew install ffmpeg
 ```
 
-During the installation, Homebrew may prompt you to confirm the creation of some directories and files - you can press the RETURN/ENTER key to continue with the installation. 
+* During the installation, Homebrew may prompt you to confirm the creation of some directories and files - you can press the RETURN/ENTER key to continue with the installation. 
 This is normal and is part of the installation process.
 
-The installation process provides instructions on how to configure your shell to include Homebrew in your PATH, which is necessary for using Homebrew commands like brew, however for your convenience, step 3 is next, explaining the process further.
+* The installation process provides instructions on how to configure your shell to include Homebrew in your PATH, which is necessary for using Homebrew commands like brew, however for your convenience, step 3 is next, explaining the process further.
 
 3. Configure Homebrew. Your shell needs Homebrew in your PATH since it is necessary for using Homebrew commands like brew.
 

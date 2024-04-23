@@ -150,6 +150,7 @@ ffmpeg -i “YOURVIDEO” -vf "fps=30,scale=480:-1" -c:v gif -b:v 3M “YOURGIF.
 ```
 
 <hr>
+
 # `That's it for now! I hope you find this documentation useful. `
 
 

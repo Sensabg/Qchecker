@@ -78,9 +78,10 @@ This is not the final design as it needs to undergo slight transformations on th
 
 I also acquired some additional skills along the way, for the sake of documenting this project - I embarked on a journey to explore the creation of GIF animations.
 
-## Step A: Installation of FFmpeg 
+> [!NOTE]
+> Installation guide for macOS (Using Homebrew):
 
-* macOS (Using Homebrew):
+## Step A: Installation of FFmpeg 
 
 1. Install Homebrew. Homebrew is a package manager for macOS that simplifies the installation of software packages. Open your terminal and run the following command to install Homebrew: 
 

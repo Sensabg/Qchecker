@@ -58,7 +58,7 @@ This is not the final design as it needs to undergo slight transformations on th
 * The extension uses the chrome.runtime API to communicate between the background script and the popup script.
 * Uses the chrome.windows API to open the popup in a new window.
 * The background script fetches DNS records from the Google DNS API and sends the response to the popup script.
-* The popup script displays the DNS records in a table format and contructs URLs for DNSWatch and WHOIS based on the searched input per click of the buttons.
+* The popup script displays the DNS records in a table format and constructs URLs for DNSWatch and WHOIS based on the searched input per click of the buttons.
 * Requires the "activeTab" and "storage" permissions to function.
 
 <hr>
@@ -125,7 +125,7 @@ brew install ffmpeg
 * if the videos are on the desktop, here is how the command should look like:
 
 ```bash
-cd dekstop
+cd desktop
 ```
 > [!IMPORTANT]
 > Verify that you're in the correct directory by running the ls command, which lists the files and folders in the current directory.

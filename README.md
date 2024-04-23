@@ -74,6 +74,8 @@ This is not the final design as it needs to undergo slight transformations on th
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxhanJhcGg0M3lyd2szaXhvNG94dTBzeHJ0c3Yza2dxbDNkeXhkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zApyMeDi1Ca6hmbIEC/source.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: 465px;">
 </p>
 
+<hr> 
+
 # `Other benefits: `
 
 I also acquired some additional skills along the way, for the sake of documenting this project - I embarked on a journey to explore the creation of GIF animations.

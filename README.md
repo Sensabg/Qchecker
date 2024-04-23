@@ -100,7 +100,7 @@ This is normal and is part of the installation process.
 
 * The installation process provides instructions on how to configure your shell to include Homebrew in your PATH, which is necessary for using Homebrew commands like brew, however for your convenience, step 3 is next, explaining the process further.
 
-3. Configure Homebrew. Your shell needs Homebrew in your PATH since it is necessary for using Homebrew commands like brew.
+3. Configure Homebrew. We already established that your shell needs Homebrew in your PATH since it is necessary for using Homebrew commands like brew so run the following commands in your terminal to add Homebrew to your PATH:
 
 > [!IMPORTANT]
 > Replace "YOURUSER" from the command below with your actual user.

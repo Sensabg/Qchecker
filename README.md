@@ -49,9 +49,9 @@ This is not the final design as it needs to undergo slight transformations on th
 
 ## 1. Features
 
-* Perform DNS lookups for a given domain and record type in a table format.
-* Open a new page of DNSWatch and WHOIS pages for the Qchecked domain in the extension.
-* Open the extension's popup in a new window.
+* Performs DNS lookups for a given domain and provides record type in a table format.
+* Opens a new page of DNSWatch and WHOIS for the "Qchecked" domain in the extension.
+* Opens the extension's popup in a new window.
 
 ## 2. Technical Details
 

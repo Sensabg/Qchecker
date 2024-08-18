@@ -83,7 +83,8 @@ I also acquired some additional skills along the way, for the sake of documentin
 > [!NOTE]
 > Installation guide for macOS (Using Homebrew):
 
-https://github.com/Sensabg/installations-configurations/tree/main/Homebrew%26FFmpeg 
+If you're interested in the process check out [this detailed report](https://github.com/Sensabg/installations-configurations/tree/main/Homebrew%26FFmpeg).
+
 
 # `That's it for now! I hope you find this documentation useful. `
 

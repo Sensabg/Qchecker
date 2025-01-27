@@ -63,7 +63,7 @@ This is not the final design as it needs to undergo slight transformations on th
 
 <hr>
 
-# `Custom designs - made by me: `
+# `Additional designs: `
 
 * I may also add functionality to switch between the different skins.
 
@@ -78,7 +78,7 @@ This is not the final design as it needs to undergo slight transformations on th
 
 # `Other benefits: `
 
-I also acquired some additional skills along the way, for the sake of documenting this project - I embarked on a journey to explore the creation of GIF animations.
+I also acquired some additional skills along the way. For the sake of documenting this project, I embarked on a brief journey exploring the creation of GIF animations.
 
 > [!NOTE]
 > Installation guide for macOS (Using Homebrew):
@@ -87,7 +87,3 @@ If you're interested in the process check out [this detailed report](https://git
 
 
 # `That's it for now! I hope you find this documentation useful. `
-
-
-
-

@@ -65,7 +65,7 @@ This is not the final design as it needs to undergo slight transformations on th
 
 # `Additional designs: `
 
-* I may also add functionality to switch between the different skins.
+* I may also add a functionality to switch between the different skins.
 
 <p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRnZmVsaGRsbXl6NzhrOXEwdG5hd2RoNzh4ODl6dHh2NXlrcml0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/701hI95nTZY4SWkRft/giphy-downsized-large.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: auto; width: 305px; height: auto;">
